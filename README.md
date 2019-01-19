@@ -6,7 +6,7 @@ This is a SourceMod plugin for the Left 4 Dead 1 game.
 
 The purpose of this plugin is to display the name of the player who fired a car alarm.
 
-## CONVARS
+## CONVARS:
 
 The CFG file is located in left4dead/cfg/sourcemod/l4d_graves.cfg.
 
