@@ -8,7 +8,7 @@ The purpose of this plugin is to display the name of the player who fired a car 
 
 ## CONVARS:
 
-The CFG file is located in left4dead/cfg/sourcemod/l4d_graves.cfg.
+The CFG file is located in left4dead/cfg/sourcemod/l4d_who_fired_car_alarm.cfg.
 
 - l4d_who_fired_car_alarm_version - The version of this plugin.
 - l4d_who_fired_car_alarm_enable - Enable or disable this plugin.
